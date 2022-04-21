@@ -1,6 +1,8 @@
 # clinical_scoring
 
-A new Flutter project.
+A new Flutter project.  
+A toy demo for learning Flutter.  
+Child-Pugh Scoring.  
 
 ## Getting Started
 
